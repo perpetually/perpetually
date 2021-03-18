@@ -2,17 +2,17 @@
 
 
 
--  ✍🏻 I am engaged in data processing and operation
+- ✍🏻 Engaged in data analysis and operation and maintenance
 
--  🧐 Interested in full stack. Recent focus on backend.
+- 🧐 Interested in full stack. Recent focus on backend.
 
-- 🎓 Bachelor of Engineering in Computer Science and Engineering
+- 🎓 Bachelor of Engineering in Electronic Information Engineering
 
 - 🌱 Currently learning Math & Philosophy.
 
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
 
-- 💻 With 3 years' computer science and technology education and 3 years' development working experience.
+- 💻 With 4 years' computer science and technology education and 3 years' development working experience.
 
 - ⛵ Encouraging people for open source collaborations.
 
