@@ -8,7 +8,7 @@
 
 - 🎓 Bachelor of Engineering in Electronic Information Engineering
 
-- 🌱 Currently learning Math & Philosophy.
+- 🌱 Currently learning Math & English.
 
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
 
