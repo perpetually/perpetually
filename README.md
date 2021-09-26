@@ -12,7 +12,7 @@
 
 - 📚 Reading more about Apple, Harry Potter and how the computer works.
 
-- 💻 With 4 years' computer science and technology education and 3 years' development working experience.
+- 💻 With 4 years' computer science and technology education and 4 years' development working experience.
 
 - ⛵ Encouraging people for open source collaborations.
 
